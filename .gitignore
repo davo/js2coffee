@@ -2,3 +2,4 @@ _site
 local
 node_modules
 _/Gemfile.lock
+package-lock.json
